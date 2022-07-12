@@ -4,7 +4,7 @@
 
 <img src = "netflixgif.gif"/>
 
-## Node Packages
+## Node Packages, yarn
 
 React-Youtube, React-indiana-drag-scroll, movie-trailer
 
